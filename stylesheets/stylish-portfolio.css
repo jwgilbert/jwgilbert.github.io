@@ -239,7 +239,7 @@ i.service-icon {
 
 footer {
   padding: 20px 0;
-  background: #dedede;
+  /*  background: #dedede;    removed by jwg to fix footer */
   border-top: 1px solid #999;
 }
 
