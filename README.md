@@ -1,4 +1,4 @@
-jwggit
+jwgilbert.github.io
 ======
 
-learning hosting on github by creating my own github landing page!
+Jeff W Gilbert's landing page!
